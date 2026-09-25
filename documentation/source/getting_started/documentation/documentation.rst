@@ -4,7 +4,7 @@ Documentation
 
 This document describes the documentation for the project. It provides information about how to document the project, either for code documentation or this documentation itself. It also describes how to build the documentation and how to contribute to it.
 
-Shinx
+Sphinx
 =====
 
 This documentation is built using Sphinx, a documentation generator. 
